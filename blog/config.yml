@@ -26,9 +26,9 @@ languages:
           series: series
         menu:
             main:
-                #- name: Archive
-                #  url: archives
-                #  weight: 5
+                - name: Archive
+                  url: archives
+                  weight: 5
                 - name: Search
                   url: search/
                   weight: 10
@@ -90,7 +90,7 @@ params:
           url: "index.xml"
 
     editPost:
-        URL: "https://github.com/shivamMg/blog/tree/master/content"
+        URL: "https://github.com/shivamMg/blog/tree/master/blog/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
