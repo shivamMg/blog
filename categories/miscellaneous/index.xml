@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>shivamMg</title>
-    <link>https://blog.shivammamgain.com/</link>
-    <description>Recent content on shivamMg</description>
+    <title>Miscellaneous on shivamMg</title>
+    <link>https://blog.shivammamgain.com/categories/miscellaneous/</link>
+    <description>Recent content in Miscellaneous on shivamMg</description>
     <image>
       <url>https://blog.shivammamgain.com/papermod-cover.png</url>
       <link>https://blog.shivammamgain.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.shivammamgain.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.shivammamgain.com/categories/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Older Blog</title>
       <link>https://blog.shivammamgain.com/posts/2022/older-blog/</link>
@@ -19,8 +19,6 @@
       <guid>https://blog.shivammamgain.com/posts/2022/older-blog/</guid>
       <description>Link to older blog at Blogger.com</description>
     </item>
-    
-    
     
   </channel>
 </rss>
