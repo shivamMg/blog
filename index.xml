@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>shivamMg</title>
-    <link>https://shivamMg.github.io/blog/</link>
+    <link>https://blog.shivammamgain.com/</link>
     <description>Recent content on shivamMg</description>
     <image>
-      <url>https://shivamMg.github.io/blog/papermod-cover.png</url>
-      <link>https://shivamMg.github.io/blog/papermod-cover.png</link>
+      <url>https://blog.shivammamgain.com/papermod-cover.png</url>
+      <link>https://blog.shivammamgain.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shivamMg.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.shivammamgain.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Older Blog</title>
-      <link>https://shivamMg.github.io/blog/posts/older-blog/</link>
+      <link>https://blog.shivammamgain.com/posts/older-blog/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shivamMg.github.io/blog/posts/older-blog/</guid>
+      <guid>https://blog.shivammamgain.com/posts/older-blog/</guid>
       <description>Link to older blog at Blogger</description>
     </item>
     
