@@ -1,15 +1,16 @@
 ---
 title: "Older Blog"
-summary: Link to older blog at Blogger.com
+summary: "Older blog at shivammg.blogspot.com" 
 date: 2022-05-20
 series: []
 categories: ["Miscellaneous"]
 tags: []
-weight: 1
+weight: 2
 aliases: []
 author: "Shivam Mamgain"
 ---
 
-All of my older blog posts can be found at [shivammg.blogspot.com](https://shivammg.blogspot.com).
+My older blog was at Blogger.com.
+All of my older posts can be found at [shivammg.blogspot.com](https://shivammg.blogspot.com).
 
 ---
