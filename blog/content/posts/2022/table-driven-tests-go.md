@@ -4,7 +4,7 @@ summary: "When to avoid table-driven tests"
 date: 2022-05-22
 series: []
 categories: ["Go"]
-tags: ["go", "golang", "testing"]
+tags: ["go", "golang", "unit-testing"]
 weight: 1
 aliases: []
 author: "Shivam Mamgain"
@@ -181,8 +181,8 @@ func TestController_CreateTODO_BadTableDrivenTest(t *testing.T) {
 }
 ```
 
-Notice:
-1. `requestMethod` is really needed only for the “method not allowed” case but has to be set even for other test cases.
+Notice in the table:
+1. `requestMethod` is really needed only for the “method not allowed” case but has to be present even for other test cases.
 2. `expectAuthCall` and `expectDBCall` are needed to set mock expectations (`EXPECT()`) for certain test cases.
 3. `authCallReturn` and `dbCallReturn` are needed by `EXPECT()` calls.
 
@@ -205,7 +205,7 @@ func TestController_CreateTODO_MethodNotAllowed(t *testing.T) {
 
 The test case itself is simple because no client calls are expected, but adding it as a part of the table-driven test made it more complicated.
 
-If this sample doesn’t look complex enough, then understand that most HTTP handlers are way more sophisticated. For instance, they might use more clients (besides auth and db) for external services (e.g. cache). Also, `EXPECT()` calls might require different arguments for different test cases, which will then need to be part of the table - making the table bigger.
+If this HTTP handler doesn’t look complex enough, then understand that most HTTP handlers are way more sophisticated. For instance, they might use more clients (besides auth and db) for external services (e.g. cache). Also, `EXPECT()` calls might require different arguments for different test cases, which will then need to be part of the table - making the table bigger.
 
 
 ## Conclusion
@@ -215,5 +215,7 @@ Obvious to many, but not to some: Avoid writing a table-driven test where test c
 Working sample code for everything here can be found in this repo: [github.com/shivamMg/table-driven-tests-go](https://github.com/shivamMg/table-driven-tests-go).
 
 All tests shown here can be found in this file: [controller_test.go](https://github.com/shivamMg/table-driven-tests-go/blob/master/api/controller_test.go).
+
+Thank you [Avinash](https://avi.im/) for reviewing the post's draft.
 
 ---
