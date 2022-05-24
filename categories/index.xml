@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.shivammamgain.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.shivammamgain.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go</title>
+      <link>https://blog.shivammamgain.com/categories/go/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.shivammamgain.com/categories/go/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Miscellaneous</title>
       <link>https://blog.shivammamgain.com/categories/miscellaneous/</link>
