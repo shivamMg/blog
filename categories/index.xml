@@ -9,8 +9,17 @@
       <link>https://blog.shivammamgain.com/pic.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.shivammamgain.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.shivammamgain.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft</title>
+      <link>https://blog.shivammamgain.com/categories/microsoft/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.shivammamgain.com/categories/microsoft/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Go</title>
       <link>https://blog.shivammamgain.com/categories/go/</link>
