@@ -1,69 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on shivamMg</title>
     <link>https://blog.shivammamgain.com/tags/</link>
     <description>Recent content in Tags on shivamMg</description>
     <image>
+      <title>shivamMg</title>
       <url>https://blog.shivammamgain.com/pic.jpg</url>
       <link>https://blog.shivammamgain.com/pic.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.shivammamgain.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.shivammamgain.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>garhwal</title>
+      <link>https://blog.shivammamgain.com/tags/garhwal/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.shivammamgain.com/tags/garhwal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>travel</title>
+      <link>https://blog.shivammamgain.com/tags/travel/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.shivammamgain.com/tags/travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>uttarakhand</title>
+      <link>https://blog.shivammamgain.com/tags/uttarakhand/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.shivammamgain.com/tags/uttarakhand/</guid>
+      <description></description>
+    </item>
     <item>
       <title>ai</title>
       <link>https://blog.shivammamgain.com/tags/ai/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.shivammamgain.com/tags/ai/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>chatgpt</title>
       <link>https://blog.shivammamgain.com/tags/chatgpt/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.shivammamgain.com/tags/chatgpt/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>microsoft</title>
       <link>https://blog.shivammamgain.com/tags/microsoft/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.shivammamgain.com/tags/microsoft/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>go</title>
       <link>https://blog.shivammamgain.com/tags/go/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.shivammamgain.com/tags/go/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>golang</title>
       <link>https://blog.shivammamgain.com/tags/golang/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.shivammamgain.com/tags/golang/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>unit-testing</title>
       <link>https://blog.shivammamgain.com/tags/unit-testing/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.shivammamgain.com/tags/unit-testing/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

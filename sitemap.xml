@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.shivammamgain.com/posts/2023/garhwal-doon-dhanaulti-tehri/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.shivammamgain.com/posts/2023/build-2023/</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,10 +14,31 @@
     <loc>https://blog.shivammamgain.com/posts/2022/older-blog/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.shivammamgain.com/tags/ai/</loc>
-    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.shivammamgain.com/categories/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.shivammamgain.com/tags/garhwal/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.shivammamgain.com/posts/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.shivammamgain.com/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.shivammamgain.com/tags/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.shivammamgain.com/tags/travel/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.shivammamgain.com/categories/travel/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.shivammamgain.com/tags/uttarakhand/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.shivammamgain.com/tags/ai/</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.shivammamgain.com/tags/chatgpt/</loc>
@@ -24,15 +48,6 @@
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.shivammamgain.com/categories/microsoft/</loc>
-    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.shivammamgain.com/posts/</loc>
-    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.shivammamgain.com/</loc>
-    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.shivammamgain.com/tags/</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.shivammamgain.com/tags/go/</loc>

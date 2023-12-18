@@ -1,42 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on shivamMg</title>
     <link>https://blog.shivammamgain.com/categories/</link>
     <description>Recent content in Categories on shivamMg</description>
     <image>
+      <title>shivamMg</title>
       <url>https://blog.shivammamgain.com/pic.jpg</url>
       <link>https://blog.shivammamgain.com/pic.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.shivammamgain.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.shivammamgain.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Travel</title>
+      <link>https://blog.shivammamgain.com/categories/travel/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.shivammamgain.com/categories/travel/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Microsoft</title>
       <link>https://blog.shivammamgain.com/categories/microsoft/</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.shivammamgain.com/categories/microsoft/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Go</title>
       <link>https://blog.shivammamgain.com/categories/go/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.shivammamgain.com/categories/go/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Miscellaneous</title>
       <link>https://blog.shivammamgain.com/categories/miscellaneous/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.shivammamgain.com/categories/miscellaneous/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
