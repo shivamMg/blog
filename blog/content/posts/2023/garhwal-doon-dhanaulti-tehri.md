@@ -1,6 +1,6 @@
 ---
 title: "Garhwal: Doon-Dhanaulti-Tehri"
-summary: "One day road trip across Garhwal's Doon, Dhanaulti and Tehri."
+summary: "One-day road trip across Garhwal's Doon, Dhanaulti and Tehri."
 date: 2023-12-17
 series: []
 categories: ["Travel"]
@@ -9,6 +9,8 @@ weight: 96
 aliases: []
 author: "Shivam Mamgain"
 ---
+
+One-day road trip across Garhwal's Doon, Dhanaulti and Tehri.
 
 It's 9 o'clock on a November morning, but I'm surprised to see that Doon's winter is still bearable this late in the year. After having breakfast and tea, we headed out for our first stop at Dhanaulti. At Ballupur Chowk, we took the route that goes via Garhi Cantonment, which eventually merges with the Mussoorie Road at Malsi. This route circumvents Doon's busy Clock Tower and Rajpur Road.
 
@@ -33,7 +35,7 @@ As a child, I had been to Eco Park, a popular attraction in Dhanaulti. However, 
 ![img](https://blogshivam.blob.core.windows.net/blog/static/garhwal-doon-dhanaulti-tehri/IMG_20231127_121030.jpg)
 
 <div style="text-align: center;">
-  <p><em>Deodar trees are a usual sight near Dhanaulti's Eco Park.</em></p>
+  <p><em>Deodar trees are a usual sight across Dhanaulti.</em></p>
 </div>
 
 Beyond the Eco Park, there are several restaurants that serve refreshments. We stopped at one before leaving for Chamba, which is the entry point to Tehri.
@@ -60,7 +62,7 @@ What we call the Tehri lake is a reservoir formed at the _Sangam_ (confluence) o
 ![img](https://blogshivam.blob.core.windows.net/blog/static/garhwal-doon-dhanaulti-tehri/IMG_20231127_151726.jpg)
 
 <div style="text-align: center;">
-  <p><em>Photograph captured from a boat in Bhagirathi looking toward the hill that adjoins the Tehri Dam (right of the hill).</em></p>
+  <p><em>Photograph captured from a boat in Bhagirathi looking toward the hill that adjoins the Tehri Dam (bottom-right of the hill).</em></p>
 </div>
 
 It was 4 o'clock in the evening and we thought it would be better to leave early to avoid driving at night, as much as possible by then.
