@@ -12,7 +12,7 @@ author: "Shivam Mamgain"
 
 It's 9 o'clock on a November morning, but I'm surprised to see that Doon's winter is still bearable this late in the year. After having breakfast and tea, we headed out for our first stop at Dhanaulti. At Ballupur Chowk, we took the route that goes via Garhi Cantonment, which eventually merges with the Mussoorie Road at Malsi. This route circumvents Doon's busy Clock Tower and Rajpur Road.
 
-<img src="https://blogshivam.blob.core.windows.net/blog/static/garhwal-doon-dhanaulti-tehri/PANO_20231127_101614.jpg" style="width: 100%;" />
+<img src="https://blogshivam.blob.core.windows.net/blog/static/garhwal-doon-dhanaulti-tehri/PANO_20231127_101614.jpg" style="	left: 50%; margin-left: -50vw; margin-right: -50vw; max-width: 100vw; position: relative; right: 50%; width: 100vw;" />
 
 <div style="text-align: center;">
   <p><em>A view of the Doon Valley from a restaurant along the Mussoorie Road.</em></p>
@@ -46,7 +46,7 @@ We finally reached Tehri _Jheel_ (lake) at 2 in the afternoon. We seemed to have
 
 Overall, it was nice to see the government promoting tourism, especially to the outside world.
 
-<video width=100% controls autoplay="false" preload="none">
+<video width=100% controls preload="none">
   <source src="https://blogshivam.blob.core.windows.net/blog/static/garhwal-doon-dhanaulti-tehri/VID_20231127_151214.mp4" type="video/mp4" />
   Video
 </video>
