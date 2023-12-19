@@ -8,6 +8,8 @@ tags: ["travel", "uttarakhand", "garhwal"]
 weight: 96
 aliases: []
 author: "Shivam Mamgain"
+images:
+  - https://blogshivam.blob.core.windows.net/blog/static/garhwal-doon-dhanaulti-tehri/IMG_20231127_151726.jpg
 ---
 
 One-day road trip across Garhwal's Doon, Dhanaulti and Tehri.
