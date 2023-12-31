@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.shivammamgain.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frontier Justice</title>
+      <link>https://blog.shivammamgain.com/posts/2023/frontier-justice/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.shivammamgain.com/posts/2023/frontier-justice/</guid>
+      <description>Musings on frontier justice.</description>
+    </item>
     <item>
       <title>Garhwal: Doon-Dhanaulti-Tehri</title>
       <link>https://blog.shivammamgain.com/posts/2023/garhwal-doon-dhanaulti-tehri/</link>
