@@ -99,7 +99,7 @@ Small restaurants serving tea and food had their kitchens facing outward toward 
   <p><em>Bhutwa.</em></p>
 </div>
 
-Narendra Nagar has been on my bucket list of places to visit on account of the Palace of Garhwal Maharajas that is present in the town. Narendra Shah, after whom the town is named, reigned over the Tehri Garhwal Kingdom from 1913 to 1946. In 1919, he moved the capital of the Garhwal Kingdom from Tehri to the place which would become Narendra Nagar. I was slightly disappointed to hear that a resort named Ananda had taken the Palace's place. To me, historical structures such as this Palace must be preserved so future generations can cling to their past. I hope the resort has preserved the original Palace structures and also put on display its history for visitors to appreciate. I shall visit it someday.
+Narendra Nagar has been on my bucket list of places to visit on account of the Palace of Garhwal Maharajas that is present in the town. Narendra Shah, after whom the town is named, reigned over the Tehri Garhwal Kingdom from 1913 to 1946. In 1919, he moved the capital of the Garhwal Kingdom from Tehri to the place which would become Narendra Nagar. I was slightly disappointed to hear that a resort named [Ananda](https://maps.app.goo.gl/jJYqZncY3uc1VfhC9) had taken the Palace's place. To me, historical structures such as this Palace must be preserved so future generations can cling to their past. I hope the resort has preserved the original Palace structures and also put on display its history for visitors to appreciate. I shall visit it someday.
 
 ![img](https://blogshivam.blob.core.windows.net/blog/static/garhwal-doon-dhanaulti-tehri/IMG_20231127_180603.jpg)
 

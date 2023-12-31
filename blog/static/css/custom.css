@@ -1,0 +1,14 @@
+/* https://dev.to/learn2dev/css-shorts-spoilers-and-hidden-content-3621 */
+.spoiler-text {
+    background: var(--code-bg);
+    color: transparent;
+    cursor: help;
+    user-select: none;
+    transition: background 0.3s ease 0.2s, color 0.2s ease 0.25s;
+  }
+  
+  .spoiler-text:hover,
+  .spoiler-text:focus {
+    background: inherit;
+    color: inherit;
+  }
